@@ -15,6 +15,7 @@ author: Kristen James
 
 navbar-links:
   About Me: "aboutme"
+  Curriculum Vitae: "CurriculumVitae.md"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
