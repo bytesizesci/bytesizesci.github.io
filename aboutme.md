@@ -16,5 +16,5 @@ Understanding the genetic regulation of TMAO will reveal dietary, microbial, and
 The broad question that draws me to science is, "what makes you, you and me, me?" My current research addresses this question by looking at the role of environment (diet) and genetics. In the future, I'd like to investigate healthy aging and longevity and want to identify genetic (genome, trascriptome, metabolome) and environmental factors (diet, exposome, sleep, stress, exercise, etc.) that predispose individuals to cardiometabolic diseases. My favorite part of the research process is data analysis and visualization.
 
 ## Hobbies
-My hobbies include exercising (lifting weights, running, hiking, cycling, playing tennis, skiing, and golfing), making art (watercolor, ink drawings, print making, photography and when I have access to a studio, making pottery; check out my art on Instagram, @kjsketch), and eating (... and cooking but I'm a better sous chef and taste tester). 
+My hobbies include exercising (lifting weights, running, hiking, cycling, playing tennis, skiing, and golfing), making art (watercolor, ink drawings, print making, photography and when I have access to a studio, making pottery; check out my art on Instagram, [@kjsketch](https://www.instagram.com/kjsketch/)), and eating (... and cooking but I'm a better sous chef and taste tester). 
 
