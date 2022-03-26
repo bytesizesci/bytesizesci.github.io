@@ -8,7 +8,7 @@ subtitle: Kristen James
 * Please contact me at [krijames@ucdavis.edu](mailto:krijames@ucdavis.edu)
 
 ### About Me
-* [Curriculum Vitae](resources/KristenLJames_Curriculum_Vitae_2022.pdf)
+* [Curriculum Vitae](resources/Kristen L James Curriculum Vitae 2022.pdf)
 
 ### Profiles
 * [ResearchGate](https://www.researchgate.net/profile/Kristen-James-3)
