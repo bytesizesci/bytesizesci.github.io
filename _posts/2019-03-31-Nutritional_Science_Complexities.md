@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Nutritional Science Complexities
-subtitle: Originally posted by Kristen in March 2019
+subtitle: Things to Consider in the Nutrition Science Field
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [Nutrition]
+tags: [Nutrition, Science Communication]
 ---
 
   Nutritional science is a field that observes how biology reacts to nutrient intake (food) with the common goal of using this knowledge to promote optimized living (good health). To study this, nutritional scientists have taken many approaches. Some ask questions at the community level assessing things like how breakfast programs in schools effect school performance and behavior. Others use a clinical approach to identify things like how a specific diet or nutrient effects health outcomes (say, cholesterol) compared to a control group. Some utilize animal models or cell culture approaches to limit confounding variables and ask molecular chemistry questions. These methods incorporate different techniques and use different tools (surveys, blood tests, tissue biopsies, DNA or RNA sequencing, etc.) to shed light on their questions and have led to incredible insights on how the human body works. Yet, despite being in the most technology advanced era, we still see raising rates of obesity, Type 2 Diabetes, heart disease, and autoimmunity. Why has nutritional science research failed to produce a recipe for good health? 
