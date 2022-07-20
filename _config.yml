@@ -16,9 +16,9 @@ author: Kristen James
 navbar-links:
   About Me: "aboutme"
   Academia: "Academia"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
@@ -49,7 +49,7 @@ social-network-links:
   #youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: kristen-james-217089b7
+  linkedin: kristenljames
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
