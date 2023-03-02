@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Kristen James
+subtitle: Kristen James, PhD
 ---
 
-Kristen James is a PhD candidate in the [Nutritional Biology Graduate Group](https://ggnb.ucdavis.edu) at the University of California, Davis. Her research uses translational approaches in humans and outbred mice to understand the dietary, lifestyle and multi-omic factors that influence plasma concentrations of trimethylamine n-oxide (TMAO), a dietary derived metabolite linked to cardiometabolic diseases. 
+Kristen James received her PhD in [Nutritional Biology](https://ggnb.ucdavis.edu) from the University of California, Davis in the lab of [Dr. Brian Bennett](https://www.ars.usda.gov/pacific-west-area/davis-ca/whnrc/omu/people/brian-j-bennett/bennett-lab/). Her PhD research used translational approaches in humans and Diversity Outbred mice to understand the dietary, lifestyle and multi-omic factors that influence plasma concentrations of trimethylamine n-oxide (TMAO), a dietary derived metabolite linked to cardiometabolic diseases. Kristen is currently a Post Doctoral Fellow in the lab of [Dr. Joanne Cole](https://jcolelab.com/) in the [Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi) and the [Colorado Center for Precision Medicine](https://medschool.cuanschutz.edu/ccpm) at the [University of Colorado Anschutz Medical Campus](https://www.cuanschutz.edu/).
 
 ## Humans
 TMAO is elevated in individuals with cardiometabolic diseases, but it is unclear whether the metabolite is a biomarker of concern in healthy individuals. To address this, James and colleagues utilized a cross-sectional trial in unmedicated adults of mixed age and BMI (18-66 years and 18-44 kg/m2) and assessed the relationships among TMAO, diet, the fecal microbiome, and cardiometabolic risk factors including clinical chemistry biomarkers and markers of endothelial function. The findings are published in an open-access journal and can be read here, [https://doi.org/10.3390/nu14071376](https://doi.org/10.3390/nu14071376). 
