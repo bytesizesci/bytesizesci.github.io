@@ -2,10 +2,10 @@
 layout: post
 title: 23 Topics to Write about in 2025
 subtitle: Outlining one of my goals for 2025
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/Banner-45.jpg
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [Nutrition, Science Communication, Goals]
+share-img: /assets/img/Banner-45.jpg
+tags: [Science Communication, Goals]
 ---
 
 One of my goals for 2025 is to write more. As written, this goal is lacking many qualities of a SMART goal (mnemonic for specific, measurable, achievable, relevant, and time-bound). To make it smarter, I've created a few guidelines. My goal will be to post 24 times at a rough 2/month candence. This post counts for number one, leaving 23 to go. To stave off writer's block, I'll pen at least 23 questions or topics to use as prompts. The questions or topics will be more related to science or my research interests than my personal life and other interests. Let the brainstorming begin!
