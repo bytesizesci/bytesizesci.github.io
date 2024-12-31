@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Academic Resources
-subtitle: Kristen J Sutton
+subtitle: Kristen J Sutton, PhD
 ---
 
 ### Contact
