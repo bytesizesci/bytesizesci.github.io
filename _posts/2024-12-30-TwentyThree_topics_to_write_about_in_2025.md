@@ -3,7 +3,7 @@ layout: post
 title: 23 Topics to Write about in 2025
 subtitle: Outlining one of my goals for 2025
 cover-img: /assets/img/Banner-45.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/Square-03799.jpg
 share-img: /assets/img/Banner-45.jpg
 tags: [Science Communication, Goals]
 ---
