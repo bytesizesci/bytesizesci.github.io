@@ -14,7 +14,7 @@ Genome-wide association studies (GWAS) look for associations between genetic mar
 ## Cross-Sectional Trials in Humans
 TMAO is elevated in individuals with cardiometabolic diseases, but it is unclear whether the metabolite is a biomarker of concern in healthy individuals. To address this, James and colleagues utilized a cross-sectional trial in unmedicated adults of mixed age and BMI (18-66 years and 18-44 kg/m2) and assessed the relationships among TMAO, diet, the fecal microbiome, and cardiometabolic risk factors including clinical chemistry biomarkers and markers of endothelial function. The findings are published in an open-access journal and can be read here, [https://doi.org/10.3390/nu14071376](https://doi.org/10.3390/nu14071376). 
 
-## Mice
+## Genetically Diverse Mice
 Understanding the genetic regulation of TMAO will reveal dietary, microbial, and therapeutic targets to reduce the metabolite's pathogenicity. To this end, Kristen utilized the heterogeneous [Diversity Outbred (DO)](https://www.jax.org/strain/009376) mouse model to examine the effects of sex and diet on the genetic regulation of plasma TMAO concentrations. Using quantitative trait loci (QTL) mapping, she not only identified a 0.5 Mbp locus regulating TMAO concentrations, she also identified a novel gene by diet interaction emphasizing that genes regulating metabolites in one diet environment may play minor roles in different diet environments. Kristen then completed a meta-analysis in over 1,500 DO mice and replicated the QTL regulating TMAO. The manuscript reporting these results is pending final experiments to determine the QTL's mechanism.
 
 ## Current and Future Research Interests
