@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Research
 subtitle: Kristen J Sutton, PhD
 ---
 
