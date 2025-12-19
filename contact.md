@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 **Email**  
-`kristen.sutton@cuanschutz.edu`
+[kristen.sutton@cuanschutz.edu](mailto:kristen.sutton@cuanschutz.edu)
 
 **Mailing address**  
 Department of Biomedical Informatics 
