@@ -1,0 +1,20 @@
+/* Change base body font weight */
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-weight: 300;
+}
+
+/* Make headings thinner */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 400;
+}
+
+/* Navbar text tone */
+.navbar {
+  font-weight: 400;
+}
+
+/* Page title on top of pages */
+.page-title {
+  font-weight: 300;
+}
