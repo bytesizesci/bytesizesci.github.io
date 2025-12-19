@@ -8,4 +8,4 @@ permalink: /publications/
 Coming soon
 
 ### Profiles
-- [Google scholar](https://scholar.google.com/citations?user=k3I3VX0AAAAJ&hl=en&oi=ao)
+- [Google Scholar](https://scholar.google.com/citations?user=k3I3VX0AAAAJ&hl=en&oi=ao)
